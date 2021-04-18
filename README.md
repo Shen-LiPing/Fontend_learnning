@@ -23,7 +23,7 @@
 
 ## 粗略步骤: https://www.cnblogs.com/qianguyihao/p/8776837.html
 ## 详细步骤：https://github.com/qianguyihao/Web
- -- 参考粗略步骤跟着做就行了
+ -- 参考粗略步骤跟着做就行了,不喜欢他给的资料可以参考下面的[资料📕]
 ## 出现问题怎么办呢？😕
 1. 去技术论坛查，比如: [MDN](https://developer.mozilla.org/en-US/); [掘金](http://www.ijiandao.com/nav/dev/com/www.juejin.im); [Stackoverflow](https://stackoverflow.com/);
 2. 加一些微信/QQ技术交流群，然后在群里发问
