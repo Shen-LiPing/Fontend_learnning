@@ -35,7 +35,7 @@
 1. [w3schools(适合用来入门HTML/CSS/粗略的了解下js)](https://www.w3schools.com/) -- 一定要跟着案例在理解的情况下敲一遍，课后习题做一下
 2. [Eloquent Javascript 3rd edition](https://eloquentjavascript.net/) -- 适合系统的入门js，课后习题据说蛮好的
 3. [MDN](https://developer.mozilla.org/zh-CN/docs/Web) -- 适合查找API
-4. Bilibli搜索Pink老师Web系列/ 尚硅谷Web系列 
+4. Bilibili搜索Pink老师Web系列/ 尚硅谷Web系列 
 5. [Head first Html & CSS](https://www.amazon.com/Head-First-HTML-CSS-Standards-Based/dp/0596159900)
 6. <strong>Bilibili & Youtube</strong> 
 
